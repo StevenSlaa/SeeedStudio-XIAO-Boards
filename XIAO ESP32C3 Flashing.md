@@ -1,4 +1,4 @@
-# Flashing the XIAO ESP32C3 board
+# Flashing the [XIAO ESP32C3 board](https://wiki.seeedstudio.com/XIAO_ESP32C3_Getting_Started/)
 
 This tutorial is writtin because I have encoutered issues with uploading to the board. Out of the box I had to hold down the boot button before plugging the board in to actually be able to upload code to the board. After this I also had to press the enable button to actually execute the code. 
 
